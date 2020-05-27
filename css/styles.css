@@ -1,0 +1,95 @@
+
+body{
+  color: #40514e;
+  margin:0;
+  text-align: center;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+
+}
+hr {
+
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #82c4c3;
+  border-width: 5px;
+  width: 25%;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color:#30475e;
+}
+
+h1{
+  color: #323232;
+  font-size:5.625rem;
+  line-height:1;
+margin-top: 0;
+font-family: 'Sacramento', cursive;
+}
+
+h2{font-family: 'Balsamiq Sans', cursive;
+  color: #222831;
+   font-weight: normal;
+   padding-bottom: 10px;
+}
+h3{
+  font-family: 'Balsamiq Sans', cursive;
+  color: #30475e;
+}
+
+.top-container{
+  background-color: #ececec;
+
+  padding-top: 100px;
+}
+
+
+.middle-container{
+  margin: 100px 0;
+}
+
+
+
+.bottom-container{
+  background-color: #ececec;
+  padding: 50px 0 20px;
+
+}
+
+.code-img{
+ width: 25%;
+
+}
+
+.chilli-img{
+  width: 25%;
+}
+
+.btn {
+  font-family:"Comic Sans MS", cursive, sans-serif ;
+  font-weight: bold;
+  color: #252625 !important;
+  font-size: 10px;
+  padding: 12px 23px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #F0F0F0;
+  background: #7EBDB4;
+}
+.testbutton:hover {
+  color: #424242 !important;
+  background: #468CCF;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.copyright{
+  color: #30475e;
+  font-size: 0.75rem;
+}
